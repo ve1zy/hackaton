@@ -1,0 +1,53 @@
+2025-03-04 00:10:22,206 - ERROR - Ошибка загрузки данных: Error binding parameter 1: type 'NaTType' is not supported
+2025-03-04 00:10:22,228 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-04 00:10:22,228 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-04 00:10:22,229 - INFO -  * Restarting with stat
+2025-03-04 00:10:23,183 - ERROR - Ошибка загрузки данных: Error binding parameter 1: type 'NaTType' is not supported
+2025-03-04 00:10:23,194 - WARNING -  * Debugger is active!
+2025-03-04 00:10:23,197 - INFO -  * Debugger PIN: 103-936-362
+2025-03-04 00:10:54,272 - INFO -  * Detected change in 'c:\\Users\\PC\\Documents\\hak\\main.py', reloading
+2025-03-04 00:10:54,387 - INFO -  * Restarting with stat
+2025-03-04 00:11:16,232 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-04 00:11:16,232 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-04 00:11:16,233 - INFO -  * Restarting with stat
+2025-03-04 00:11:17,147 - WARNING -  * Debugger is active!
+2025-03-04 00:11:17,150 - INFO -  * Debugger PIN: 103-936-362
+2025-03-04 00:12:06,384 - INFO - 127.0.0.1 - - [04/Mar/2025 00:12:06] "GET /data HTTP/1.1" 200 -
+2025-03-04 00:12:06,448 - INFO - 127.0.0.1 - - [04/Mar/2025 00:12:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-04 00:12:14,344 - INFO - 127.0.0.1 - - [04/Mar/2025 00:12:14] "GET /data?sensor=Sensor1 HTTP/1.1" 200 -
+2025-03-04 00:12:27,697 - INFO - 127.0.0.1 - - [04/Mar/2025 00:12:27] "GET /graph?sensor=Sensor1&start_date=2024-01-01&end_date=2024-02-01 HTTP/1.1" 200 -
+2025-03-04 00:13:09,605 - INFO -  * Detected change in 'c:\\Users\\PC\\Documents\\hak\\main.py', reloading
+2025-03-04 00:13:10,839 - INFO -  * Restarting with stat
+2025-03-04 00:13:11,759 - WARNING -  * Debugger is active!
+2025-03-04 00:13:11,762 - INFO -  * Debugger PIN: 103-936-362
+2025-03-04 00:13:18,921 - INFO - 127.0.0.1 - - [04/Mar/2025 00:13:18] "GET /data?sensor=Sensor1 HTTP/1.1" 200 -
+2025-03-04 00:16:12,131 - INFO -  * Detected change in 'c:\\Users\\PC\\Documents\\hak\\check_db.py', reloading
+2025-03-04 00:16:12,231 - INFO -  * Restarting with stat
+2025-03-04 00:16:13,153 - WARNING -  * Debugger is active!
+2025-03-04 00:16:13,156 - INFO -  * Debugger PIN: 103-936-362
+2025-03-04 00:16:28,198 - INFO -  * Detected change in 'c:\\Users\\PC\\Documents\\hak\\main.py', reloading
+2025-03-04 00:16:28,297 - INFO -  * Restarting with stat
+2025-03-04 00:16:36,010 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-04 00:16:36,010 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-04 00:16:36,011 - INFO -  * Restarting with stat
+2025-03-04 00:16:36,930 - WARNING -  * Debugger is active!
+2025-03-04 00:16:36,933 - INFO -  * Debugger PIN: 103-936-362
+2025-03-04 00:36:11,726 - ERROR - Ошибка загрузки данных: could not convert string to float: '555;542'
+2025-03-04 00:36:11,745 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-04 00:36:11,746 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-04 00:36:11,747 - INFO -  * Restarting with stat
+2025-03-04 00:36:12,637 - ERROR - Ошибка загрузки данных: could not convert string to float: '555;542'
+2025-03-04 00:36:12,649 - WARNING -  * Debugger is active!
+2025-03-04 00:36:12,653 - INFO -  * Debugger PIN: 103-936-362
+2025-03-04 00:37:44,864 - INFO -  * Detected change in 'c:\\Users\\PC\\Documents\\hak\\main.py', reloading
+2025-03-04 00:37:44,968 - INFO -  * Restarting with stat
+2025-03-04 00:37:45,894 - ERROR - Ошибка загрузки данных: Error binding parameter 1: type 'Timestamp' is not supported
+2025-03-04 00:37:45,905 - WARNING -  * Debugger is active!
+2025-03-04 00:37:45,909 - INFO -  * Debugger PIN: 103-936-362
+2025-03-04 00:39:15,100 - INFO -  * Detected change in 'c:\\Users\\PC\\Documents\\hak\\main.py', reloading
+2025-03-04 00:39:15,197 - INFO -  * Restarting with stat
+2025-03-04 00:39:24,226 - INFO -  * Restarting with stat
